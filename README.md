@@ -11,6 +11,6 @@ This project is a Laravel-based task management application designed to help use
 - Inertia.js with React: Provides a smooth and reactive user interface
 - SMTP: For sending task-related notifications
 
-### 
+### Features
 - Logout feature accessible via the `/logout` route.
 - Automatically logs task activities to a dedicated history table.
